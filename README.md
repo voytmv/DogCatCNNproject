@@ -1,3 +1,3 @@
 # DogCatCNNproject
 
-Basic applying of convolutional neural networks with detecting dogs/cats
+Basic application of convolutional neural networks to detecting dogs/cats
